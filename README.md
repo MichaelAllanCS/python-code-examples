@@ -1,3 +1,3 @@
-# Lab 2 JavaScript
+# Python Scripts
 
 Collection of Python scripts
